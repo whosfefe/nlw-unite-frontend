@@ -1,5 +1,5 @@
 <h1>NLW Unite - HTML + CSS + JS</h1>
-<p>Projeto realizado seguindo o intensivão da RocketSeat, nele foi desenvolvido um sistema para eventos, com um cadastro de participantes</p>
+<p>Projeto realizado no intensivão da RocketSeat, nele foi desenvolvido um sistema para eventos, com um cadastro de participantes e confirmação de Check-In</p>
 
 <h1>💻Tecnologias utilizadas no projeto.</h1>
 <div style="display: inline_block"><br>
