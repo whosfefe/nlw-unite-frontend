@@ -1,1 +1,8 @@
-# nlw-unite-frontend
+# NLW Unite - HTML + CSS + JS
+
+<h1>Tecnologias utilizadas no proejto:</h1>
+<div style="display: inline_block"><br>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
